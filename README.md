@@ -1,1 +1,1 @@
-# LearningMinecraftModding
+Learning to mod minecraft
